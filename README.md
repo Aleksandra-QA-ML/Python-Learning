@@ -11,3 +11,8 @@ This repository is dedicated to my progress in Python programming, focusing on A
 ### 🛠 Environment
 * **OS:** Windows / Android (Google Pixel)
 * **Tools:** VS Code, Git, Caramba Switcher
+
+### 📖 My Study Progress
+- [x] [Basics of Python](./Basics) — Variables, Loops, Conditions.
+- [ ] [Functions & Modules](./Functions) — (In progress).
+- [ ] [Working with Files](./Files) — (Planned).
