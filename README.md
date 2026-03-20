@@ -15,4 +15,4 @@ This repository is dedicated to my progress in Python programming, focusing on A
 ### 📖 My Study Progress
 - [x] [Basics of Python](./Basics) — Variables, Loops, Conditions.
 - [ ] [Functions & Modules](./Functions) — (In progress).
-- [ ] [Working with Files](./Files) — (Planned).
+- [ ] [Working with Files](./Files) — (In progress).
